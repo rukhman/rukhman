@@ -52,9 +52,11 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 
 or write me an email
 
-<br/><br/>
-
 [![Email](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/send.png)](mailto:aleksei.rukhmanov@gmx.de)
+
+[![Email](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/send.png)](aleksei.rukhmanov@gmx.de)
+
+<br/><br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Schwarzberg-A&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
