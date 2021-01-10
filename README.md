@@ -1,4 +1,5 @@
-[![logo](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/Sberg1.png)](https://github.com/Schwarzberg-A) # Hi my name is **Aleksei Rukhmanov**, I am a Frontend developer from Nizhny Novgorod!
+[![logo](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/Sberg2.png)](https://github.com/Schwarzberg-A)   
+# Hi my name is **Aleksei Rukhmanov**, I am a Frontend developer from Nizhny Novgorod!
 
 Welcome to my GitHub page! Here you can find some of my open source and pet projects.
 
