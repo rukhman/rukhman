@@ -1,4 +1,4 @@
-[![logo](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/Sberg.jpg)](https://www.facebook.com/profile.php?id=100022285489839)
+[![logo](../img/Sberg.jpg)](https://www.facebook.com/profile.php?id=100022285489839)
 
 # Hi my name is **Aleksei Rukhmanov**, I am a Frontend developer from Nizhny Novgorod!
 
