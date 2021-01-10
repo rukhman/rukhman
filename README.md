@@ -20,7 +20,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🟢Accessibility
 
 
-<!--more-->
+<!-----------------more-------------------------->
 
 
 ⏳ Currently learning:
@@ -40,6 +40,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🇩🇪 🟡 German: ≈B2
 * 🇺🇸 🟠 English: ≈A2
 <br/><br/>
+-------------------------
 
 >Feel free to contact me if you have interesting ideas or looking for a new team member.
 
@@ -53,8 +54,6 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 or write me an email
 
 [![Email](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/send.png)](mailto:aleksei.rukhmanov@gmx.de)
-
-[![Email](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/send.png)](aleksei.rukhmanov@gmx.de)
 
 <br/><br/>
 
