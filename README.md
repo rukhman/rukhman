@@ -38,7 +38,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 
 👨💬👦 My languages:
 * 🇷🇺 🟢 Russian: Native language
-* 🇩🇪 🟡 German: ≈B2
+* 🇩🇪 🟡 German: ≈C1
 * 🇺🇸 🟠 English: ≈A2
 <br/><br/>
 -------------------------
