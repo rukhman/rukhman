@@ -31,8 +31,9 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🟠TypeScript
 * 🟠React
 * 🟠Angular
-* 🟠SQL
+* 🟠MySQL/MongoDB/Redis/PostgreSQL
 * 🟠PHP
+* 🟠WordPress/1C Bitrix/Joomla/OpenCart
 <br/><br/>
 
 👨💬👦 My languages:
