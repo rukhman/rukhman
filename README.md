@@ -24,16 +24,16 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 
 
 ⏳ Currently learning:
-* 🟡Vue
+* 🟡Vue - beginner
+* 🟡WordPress - beginner
+* 🟡PHP - beginner
+* 🟡MySQL - beginner
 <br/><br/>
 
 🕣Upcoming plans:
 * 🟠TypeScript
 * 🟠React
 * 🟠Angular
-* 🟠MySQL/MongoDB/Redis/PostgreSQL
-* 🟠PHP
-* 🟠WordPress/1C Bitrix/Joomla/OpenCart
 <br/><br/>
 
 👨💬👦 My languages:
