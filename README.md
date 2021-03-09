@@ -10,6 +10,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🟢Vanilla JavaScript (ES6+)
 * 🟢Webpack
 * 🟢Figma / Adobe Photoshop
+* 🟢GIT 
 <br/><br/>
 
 🛠 Here's some of what I can do
