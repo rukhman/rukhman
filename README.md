@@ -8,6 +8,9 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🟢HTML5
 * 🟢CSS / SCSS
 * 🟢Vanilla JavaScript (ES6+)
+* 🟢Angular
+* 🟢TypeScript
+* 🟢RXJS
 * 🟢Webpack
 * 🟢Figma / Adobe Photoshop
 * 🟢GIT 
@@ -25,16 +28,14 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 
 
 ⏳ Currently learning:
-* 🟡Vue - beginner
 * 🟡WordPress - beginner
 * 🟡PHP - beginner
 * 🟡MySQL - beginner
 <br/><br/>
 
 🕣Upcoming plans:
-* 🟠TypeScript
 * 🟠React
-* 🟠Angular
+* 🟠Vue 
 <br/><br/>
 
 👨💬👦 My languages:
