@@ -25,7 +25,6 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 ⏳ Currently learning:
 * 🟡nodeJS - beginner
 * 🟡PostrgeSQL, knex - beginner 
-* 🟡MongoDB - beginner
 <br/><br/>
 
 🕣Upcoming plans:
@@ -35,7 +34,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 
 👨💬👦 My languages:
 * 🇷🇺 🟢 Russian: Native language
-* 🇩🇪 🟡 German: ≈C1
+* 🇩🇪 🟡 German: ≈b2
 * 🇺🇸 🟠 English: ≈A2
 <br/><br/>
 -------------------------
