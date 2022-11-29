@@ -40,6 +40,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 -------------------------
 
 >Feel free to contact me if you have interesting ideas or looking for a new team member.
+>
 Telegram @AleksRukhman
 
 
