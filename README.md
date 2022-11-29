@@ -38,18 +38,18 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🇺🇸 🟠 English: ≈A2
 <br/><br/>
 -------------------------
-
 >Feel free to contact me if you have interesting ideas or looking for a new team member.
 >
 
-[![Telegram](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/telegram.png)](https://www.facebook.com/profile.php?id=100022285489839)
+[![Telegram](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/telegram.png)](https://t.me/AleksRukhman)
 
+<!-- >Feel free to contact me if you have interesting ideas or looking for a new team member.
+>
 
 [![facebook](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/facebook.png)](https://www.facebook.com/profile.php?id=100022285489839)
 [![instagram](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/instagram.png)](https://www.instagram.com/aleksei.rukhmanov/)
 [![linkedin](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/linkedin.png)](https://www.linkedin.com/in/aleksei-rukhmanov-77aba7203)
-[![vk](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/vk.png)](https://vk.com/mickjay)
-
+[![vk](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/vk.png)](https://vk.com/mickjay) -->
 
 or write me an email
 
