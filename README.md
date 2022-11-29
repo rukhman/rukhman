@@ -42,8 +42,6 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 >Feel free to contact me if you have interesting ideas or looking for a new team member.
 Telegram @AleksRukhman
 
-[![facebook](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/facebook.png)](https://www.facebook.com/profile.php?id=100022285489839)
-
 
 [![facebook](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/facebook.png)](https://www.facebook.com/profile.php?id=100022285489839)
 [![instagram](https://github.com/Schwarzberg-A/Schwarzberg-A/blob/main/img/instagram.png)](https://www.instagram.com/aleksei.rukhmanov/)
