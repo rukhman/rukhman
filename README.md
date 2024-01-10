@@ -5,31 +5,29 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 
 
 💪 My tech stack:
-* 🟢HTML5
-* 🟢CSS / SCSS
+* 🟢HTML5, CSS / SCSS / LESS
 * 🟢Vanilla JavaScript (ES6+)
 * 🟢Angular 2+
 * 🟢TypeScript
 * 🟢RXJS
 * 🟢NGRX
 * 🟢Webpack
-* 🟢Figma / Adobe Photoshop (as a developer)
 * 🟢GIT 
-* 🟢Layout of the letters / sending emails
 <br/><br/>
 
 
 <!-----------------more-------------------------->
 
 
-⏳ Currently learning:
-* 🟡nodeJS - beginner
-* 🟡PostrgeSQL, knex - beginner 
-<br/><br/>
-
-🕣Upcoming plans:
-* 🟠React
-* 🟠Vue 
+⏳ additional knowledge:
+* 🟡NodeJS
+* 🟡NextJS
+* 🟡NestJS
+* 🟡Docker
+* 🟡NGINX
+* 🟡VITE
+* 🟡ReactJS
+* 🟡PostrgeSQL, knex
 <br/><br/>
 
 👨💬👦 My languages:
