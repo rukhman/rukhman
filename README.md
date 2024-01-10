@@ -28,6 +28,7 @@ Welcome to my GitHub page! Here you can find some of my open source and pet proj
 * 🟡VITE
 * 🟡ReactJS
 * 🟡PostrgeSQL, knex
+* 🟡Python, DRF
 <br/><br/>
 
 👨💬👦 My languages:
